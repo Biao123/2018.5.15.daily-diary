@@ -1,0 +1,24 @@
+dew 3550/28800/8.12  --2018.5.17
+thats all
+工作
+  直通车的查看页面
+  直通车的选择建议页面
+  天一阁的页面修改
+  季后赛勇士毒奶一口
+
+“宁肯断子绝孙，也要让党放心”、“上吊给根绳，喝药给一瓶”、“宁可流出来，不许生出来”、“一胎生,二胎扎,三胎四胎——刮!刮!刮!”
+我有一个让你快速瘦三斤的方法--把你的心给我
+天性的善良永远换不来人生的成长
+世界上最尬的事情莫过于，去朋友家做客，却不给饭吃。 
+
+遮罩层https://www.cnblogs.com/AliceMa/p/7891555.html  
+主要是设置fixed,然后     
+     width:100px;
+     height:100px;
+     background:transparent;
+     background:rgba(0,0,0,0.5);
+     border-radius:8px;
+     position: fixed;
+     margin:auto;left:0; right:0; top:0; bottom:0;
+     z-index: 1;
+     
